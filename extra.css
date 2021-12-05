@@ -1,0 +1,39 @@
+.external-links{
+  /* color: white; 
+  width: 20%;
+  margin-left: 10%;
+  margin-top: 10%; */
+  border-radius: 25px 3px;
+  border: 2px solid gray;
+  text-decoration: none;
+  width: 20%;
+  color: white;
+  margin-left: 7%;
+  margin-top: 13%;
+  position: absolute;
+  z-index: 99;
+  background-color: rgba(253, 5, 5, 0.4);
+  font-size: 2rem;
+}
+
+.try{
+  padding-left: 2rem;
+  padding-top: 1rem;
+  color: white;
+  text-shadow: 5px 5px 8px #000000;
+
+}
+.try a{
+  color: white;
+  font-size: 2rem;
+}
+.try a:hover{
+  color: rgb(54, 107, 250);
+  font-size: 2.3rem;
+  text-shadow: 3px 3px 5px #000000;
+
+}
+.link-button{
+  border: 0px;
+  background-color: red;
+}
